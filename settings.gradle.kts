@@ -23,3 +23,4 @@ rootProject.name = "AnimeQuote"
 include(":app")
 include(":domain")
 include(":data")
+include(":presentation")
